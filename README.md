@@ -35,7 +35,7 @@ blender_3d/
 ```
 
 # Technologies & Tools
-- Blender 3.x – Open-source 3D creation suite
+- Blender 3
 - Python (Blender scripting API)
 - Custom add-ons and automation scripts
 - HDRIs, PBR textures, and procedural materials
